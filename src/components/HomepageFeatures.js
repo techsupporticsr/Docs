@@ -11,7 +11,7 @@ const FeatureList = [
         },
     description: (
       <>
-            Video Presentations and Articles designed from the ground up to be easily understood and
+            Video Presentations designed from the ground up to be easily understood and
             used to get your website up and running quickly.
       </>
     ),
