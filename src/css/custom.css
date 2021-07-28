@@ -154,7 +154,7 @@ details {
     color: green;
 }
 .red {
-    color: red;
+    color: #ff0000;
 }
 .color {
     color: var(--ifm-color-primary);
